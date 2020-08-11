@@ -1,0 +1,288 @@
+#Ej1{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+}
+
+#Ej1 a{
+    background-color: palevioletred ;
+    border-bottom: 2px solid purple;
+}
+
+#div-ie1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-ej2{
+    width: 200px;
+    height: 100px;
+}
+
+#Ej2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#EJ3{
+    width: 100%;
+    height: 100px;
+    
+}
+
+#EJ3 ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#EJ4{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    
+    
+    
+}
+
+.div-eje4{
+    width: 550px;
+    margin: 50px;
+    
+}
+
+
+.div-eje4 img{
+    width: 100%;
+}
+
+#div-eje41{
+    order: 2;
+}
+
+
+#div-eje42{
+    order: 2;
+}
+
+
+#div-eje43{
+    order: 2;
+}
+
+
+#div-eje44{
+    order: 2;
+}
+
+
+#div-eje45{
+    order: 1;
+}
+
+
+#section-5{
+    width: 500px;
+    min-height: 30vh;
+}
+
+#header-5{
+    background-color: rgb(172, 172, 172);
+}
+#main-5{
+    background-color: grey;
+}
+#footer-5{
+    background-color: orange;
+}
+
+#section-6{
+    display: flex;
+    flex-direction: column;
+}
+
+#section6-div1{
+    background-color: rgb(230, 73, 46);
+    text-align: center;
+}
+#section6-div2{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+
+
+#section6-div2 #aside-61{
+    width: 20%;
+    background-color: rgb(255, 196, 0);
+}
+
+#section6-div2 span{
+    width: 60%;
+    background-color: cyan;
+}
+#section6-div2 #aside-62{
+    width: 20%;
+    background-color: palevioletred;
+}
+
+#section6-div3{
+    text-align: center;
+    background-color: rgb(33, 231, 119);
+}
+
+#section-7{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+}
+#section7-div1{
+    width: 15%;
+    height: 100%;
+    background-color: slategray;
+    border-radius: 5px;;
+}
+
+#section7-div2{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+#section7-div2 #section7-p1{
+    font-weight: bold;
+}
+
+#section7-div2 #section7-p2{
+    font-weight: bold;
+    color: slategray;
+}
+
+#section7-div2 #section7-btn1{
+    background-color: slategray;
+    color: white;
+    border-radius: 5px;
+    padding: 2%;
+    border-style: none;
+    
+}
+
+#section7-div2 #section7-btn2{
+    border-radius: 5px ;
+    padding: 2%;
+    border: 1px solid black;
+    
+}
+
+#section7-div3{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+}
+
+#section7-div31{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#section7-p11{
+    font-weight: bold;
+}
+
+#section7-p12{
+    font-weight: bold;
+    color: grey;
+}
+
+#section7-div311{
+    padding: 3%;
+    background-color: grey;
+    border-radius: 10px;
+    
+}
+
+#section7-div312{
+    text-align: center;
+}
+
+
+#section8-div1{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+#section8-div11{
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#section8-div11 h2{
+    color: white;
+}
+
+#section8-div11 nav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#section8-div11 nav ul li{
+    color: white;
+    list-style: none;
+    padding: 3%;
+}
+
+
+
+#section8-div2 div{
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 270px;
+    margin-top: 25px;
+    color: gray;
+}
+
+
+#section8-div3{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    
+    margin-left: 270px;
+    margin-top: 25px;
+}
+
+#section8 footer{
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 270px;
+    margin-top: 25px;
+    color: gray;
+}

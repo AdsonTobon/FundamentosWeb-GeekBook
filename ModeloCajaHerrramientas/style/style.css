@@ -1,0 +1,75 @@
+
+/* .div-padre{
+    display: block;
+} */
+
+.div-e2{
+    width: 100px;
+    height: 100px;
+    display: inline;
+   
+}
+
+.img{
+    width: 100px;
+    height: 100px;
+}
+
+.img4{
+    width: 200px;
+    height: 200px;
+}
+
+.div-e5{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 5px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+}
+
+.img5{
+    width: 100px;
+    height: 100px;
+
+}
+
+.div-e8{
+    text-align: center;
+}
+
+.col {
+    display: inline-block;
+    width: 140px;
+    margin-right: 10px;
+  }
+
+  .box {
+    border: 1px solid deeppink;
+    width: 130px;
+    height: 130px;
+  }
+  
+  .box--1 {
+    
+  /*   color de fondo: cyan */
+   background-color: cyan;
+  }
+  .box--2 {
+    /*
+    imagen de fondo: https://www.fillmurray.com/130/130
+    */
+    background-image: url("https://www.fillmurray.com/130/130");
+  }
+  .box--3 {
+    /*
+    color de fondo: cyan
+    imagen de fondo: https://www.fillmurray.com/110/110
+    La imagen tiene que aparecer centrada y sin que se repita
+    */
+
+    background: url("https://www.fillmurray.com/110/110") center no-repeat cyan;
+  }

@@ -1,0 +1,31 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: mediumpurple;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    color: rebeccapurple;
+    line-height: 1.5;
+}
+
+h1{
+    text-align: center;
+}
+
+main{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+}
+
+table{
+    width: 100%;
+}
+
+.links{
+    color: red;
+}
